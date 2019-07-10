@@ -1,0 +1,57 @@
+body{
+    background-color:#DB5461;
+    padding:5%;
+    font-family: Helvetica;
+    color:white;
+    letter-spacing: 1px;
+    line-height:1.5;
+    font-style: bold; 
+    font-size: 20px;
+}
+
+#dig {
+    color:#30343F;
+}
+
+.Menu {
+    float:right;
+    background-color: white;
+    box-shadow: 2px 2px 6px black;
+}
+
+.Buttonmenu{
+    background-color: white;
+    border: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.learn{
+    background-color: white;
+    border-radius: 30px;
+    border-width:7px;
+    border-style: solid;
+    border-color:#30343F;
+    padding:15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 230px; 
+    font-size: 18px;
+    letter-spacing: 3px;
+    font-family: Helvetica;
+}
+
+footer{
+    background-color:#30343F;
+    color:white;
+    width: fill;
+        
+}
+
+.text{
+    opacity: 0.6;
+ }
+
+ .fot {
+    text-align: left;
+ }
